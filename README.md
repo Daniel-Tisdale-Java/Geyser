@@ -47,14 +47,3 @@ There are a few things Geyser is unable to support due to various differences be
 2. [Install Maven](https://maven.apache.org/install.html)
 3. Navigate to the Geyser root directory and run `git submodule update --init --recursive`. This command downloads all the needed submodules for Geyser and is a crucial step in this process.
 4. Run `mvn clean install` and locate to the `target` folder.
-
-## Contributing
-Any contributions are appreciated. Please feel free to reach out to us on [Discord](http://discord.geysermc.org/) if
-you're interested in helping out with Geyser.
-
-## Libraries Used:
-- [Adventure Text Library](https://github.com/KyoriPowered/adventure)
-- [NukkitX Bedrock Protocol Library](https://github.com/NukkitX/Protocol)
-- [Steveice10's Java Protocol Library](https://github.com/Steveice10/MCProtocolLib)
-- [TerminalConsoleAppender](https://github.com/Minecrell/TerminalConsoleAppender)
-- [Simple Logging Facade for Java (slf4j)](https://github.com/qos-ch/slf4j)
